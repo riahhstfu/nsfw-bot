@@ -2,9 +2,7 @@
 See anybody nude for free ,  Just paint over the clothes, set age and body type and get a deepnude in a few seconds
 
 Run ``DeepNude`` & upload your desired image.
-
-![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNrbHM0ZGl0ZXNtano3ZmU3N3A5dWFyZDgyNXd4MXc2amcydzU2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3IIju8VRDqwhSOnvmb/giphy.gif)
-
+![ezgif-1-54945f928b](https://github.com/riahhstfu/nsfw-bot/assets/170265581/ffd30c9f-7eb1-451a-b8c4-0cdd12ae5f8d)
 
 # Advisory
 
